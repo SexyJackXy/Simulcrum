@@ -1,0 +1,35 @@
+button {
+    border: none;
+    background-color: #F06292;
+    padding: 1em 2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0.5em auto;
+    cursor: pointer;
+    width: 100%;
+    color: white;
+    font-size: 1em;
+}
+
+.container {
+    display: grid;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.infos {
+    display: flex;
+    width: 35%;
+    align-content: center;
+    margin: auto;
+}
+
+.mini-infos {
+    text-align: center;
+    min-width: fit-content;
+    padding: 0.5em 2em;
+    margin: 0.5em 1em;
+    width: 20em;
+    height: 60%;
+}
