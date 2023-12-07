@@ -1,6 +1,10 @@
+:root {
+    background-color: #F6EBF4;
+}
+
 button {
     border: none;
-    background-color: #F06292;
+    background-color: #482673;
     padding: 1em 2em;
     text-align: center;
     text-decoration: none;
