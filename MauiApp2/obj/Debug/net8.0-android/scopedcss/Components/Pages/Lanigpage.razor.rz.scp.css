@@ -1,6 +1,10 @@
+:root[b-k2i4w6uhyp] {
+    background-color: #F6EBF4;
+}
+
 button[b-k2i4w6uhyp] {
     border: none;
-    background-color: #F06292;
+    background-color: #482673;
     padding: 1em 2em;
     text-align: center;
     text-decoration: none;
@@ -16,6 +20,7 @@ button[b-k2i4w6uhyp] {
     display: grid;
     flex-direction: column;
     min-height: 100%;
+    text-align:center;
 }
 
 .infos[b-k2i4w6uhyp] {

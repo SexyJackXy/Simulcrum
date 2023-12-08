@@ -1,9 +1,10 @@
-.nav {
-    margin: 0;
+nav {
+    margin: 0 auto;
     padding: 0;
     overflow: hidden;
-    background-color: green;
-    float:center;
+    float: right;
+    background-color: #F6EBF4;
+    color: #482673;
 }
 
 ul {
@@ -11,7 +12,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
 }
 
 li {
@@ -20,12 +20,12 @@ li {
 
 li a {
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-li a:hover {
-    background-color: #111;
-}
+    li a:hover {
+        background-color: #482673;
+        color: #F6EBF4;
+    }

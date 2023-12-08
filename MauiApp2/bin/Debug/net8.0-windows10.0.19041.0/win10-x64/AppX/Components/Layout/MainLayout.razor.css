@@ -3,7 +3,8 @@
     margin: 0;
     font-size: 2ch;
     font-family: Arial, Helvetica, sans-serif;
-    color: #2c3e50;
+    color: #482673;
+    background-color: #F6EBF4;
 }
 
 .page {
@@ -37,11 +38,11 @@ button {
     display: inline-flex;
     flex-direction: column;
     min-width: 100%;
-    background-color: blue;
 }
 
 .container {
     display: grid;
     flex-direction: column;
     min-height: 100%;
+    text-align: center;
 }
