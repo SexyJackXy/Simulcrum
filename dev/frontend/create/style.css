@@ -1,0 +1,43 @@
+.Bot{
+    margin-top: 2em;
+    width: 70%;
+}
+
+.Mid{
+    width: 70%;
+}
+
+.btngroup{
+    float: right;
+}
+
+.midbtn{
+    margin: 0.5em 2em;
+    border: none;
+    width: 100%;
+    background-color: #482673;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    font-size: 1em;
+}
+
+.botbtn{
+    margin: 0 2em;
+    width: 20%;
+    border: none;
+    background-color: #482673;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1em 2em;
+    font-size: 1em;
+}
+
+#sourceRtb{
+    width: 70%;
+    height: 300px;
+    margin: 1em 2em;
+}
