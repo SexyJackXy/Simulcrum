@@ -8,7 +8,8 @@
 }
 
 .page {
-    position: absolute;
+    display: flex;
+    position: page;
     left: 0px;
     right: 0px;
     top: 0px;
@@ -26,6 +27,7 @@ main {
     display: inline-flex;
     flex-direction: column;
     min-width: 100%;
+    background-color: #F6EBF4;
 }
 
 .container {
@@ -33,4 +35,5 @@ main {
     flex-direction: column;
     min-height: 100%;
     text-align: center;
+    margin-top:10%
 }

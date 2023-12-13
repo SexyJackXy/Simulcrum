@@ -1,28 +1,39 @@
 .Bot {
-    margin: 2em auto;
-    width: 70%;
+    width: 100%;
+    position: absolute;
+    bottom: 3.25em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .Mid {
-    margin: 0 auto;
+    margin-top: 5em;
+    margin: auto;
     width: 70%;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .Top {
     margin: 0 auto;
     width: 70%;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .btngroup {
     float: right;
 }
 
-.label{
+.label {
     margin: 0 auto;
-    width: 68%;
+    width: 57%;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
 }
 
 .midbtn {
@@ -44,6 +55,11 @@
     background-color: #482673;
     color: white;
     text-align: center;
+Start Load Save
+Home
+Create
+Load
+Import
     text-decoration: none;
     display: inline-block;
     padding: 1em 2em;
@@ -54,9 +70,17 @@
     width: 70%;
     height: 300px;
     margin: 1em 2em;
+    background-color: #ECEFF1;
 }
 
 #destinationTbx {
     width: 70%;
     margin: 1em 2em;
+    background-color: #ECEFF1;
+}
+
+input[type=text] {
+    outline: none;
+    box-sizing: border-box;
+    border: px solid #482673;
 }
