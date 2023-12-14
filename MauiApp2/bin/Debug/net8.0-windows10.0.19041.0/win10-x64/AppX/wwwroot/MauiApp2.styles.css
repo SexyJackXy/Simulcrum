@@ -49,11 +49,12 @@ button[b-q5dwqcikdv] {
 }
 /* /Components/Layout/NavMenu.razor.rz.scp.css */
 nav[b-mh3lx5gfsj] {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     overflow: hidden;
-    background-color: green;
-    float:right;
+    float: right;
+    background-color: #F6EBF4;
+    color: #482673;
 }
 
 ul[b-mh3lx5gfsj] {
@@ -61,23 +62,109 @@ ul[b-mh3lx5gfsj] {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
 }
 
 li[b-mh3lx5gfsj] {
     float: left;
 }
 
-li a[b-mh3lx5gfsj] {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    li a[b-mh3lx5gfsj] {
+        display: block;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        li a:hover[b-mh3lx5gfsj] {
+            background-color: #482673;
+            color: #F6EBF4;
+        }
+/* /Components/Pages/CreateBackup.razor.rz.scp.css */
+.Bot[b-s2a0zosc6c] {
+    width: 100%;
+    position: absolute;
+    bottom: 3.25em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-li a:hover[b-mh3lx5gfsj] {
-    background-color: #111;
+.Mid[b-s2a0zosc6c] {
+    margin-top: 5em;
+    margin: auto;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Top[b-s2a0zosc6c] {
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btngroup[b-s2a0zosc6c] {
+    float: right;
+}
+
+.label[b-s2a0zosc6c] {
+    margin: 0 auto;
+    width: 57%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.midbtn[b-s2a0zosc6c] {
+    margin: 0.5em 2em;
+    border: none;
+    width: 100%;
+    background-color: #482673;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    font-size: 1em;
+}
+
+.botbtn[b-s2a0zosc6c] {
+    margin: 0 2em;
+    width: 20%;
+    border: none;
+    background-color: #482673;
+    color: white;
+    text-align: center;
+Start Load Save
+Home
+Create
+Load
+Import
+    text-decoration: none;
+    display: inline-block;
+    padding: 1em 2em;
+    font-size: 1em;
+}
+
+#sourceRtb[b-s2a0zosc6c] {
+    width: 70%;
+    height: 300px;
+    margin: 1em 2em;
+    background-color: #ECEFF1;
+}
+
+#destinationTbx[b-s2a0zosc6c] {
+    width: 70%;
+    margin: 1em 2em;
+    background-color: #ECEFF1;
+}
+
+input[type=text][b-s2a0zosc6c] {
+    outline: none;
+    box-sizing: border-box;
+    border: px solid #482673;
 }
 /* /Components/Pages/Lanigpage.razor.rz.scp.css */
 :root[b-k2i4w6uhyp] {
