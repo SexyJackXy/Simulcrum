@@ -1,5 +1,6 @@
 Components\Layout\MainLayout.razor.css
 Components\Layout\NavMenu.razor.css
+Components\Pages\CreateBackup.razor.css
 Components\Pages\Lanigpage.razor.css
 OpenSans-Regular.ttf
 appicon.ico
