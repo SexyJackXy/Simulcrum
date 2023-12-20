@@ -1,0 +1,39 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.Left {
+    width: 25%;
+    justify-content: center;
+}
+
+.Mid {
+    width: 50%;
+    justify-content: center;
+}
+
+.Right {
+    float: right;
+    width: 25%;
+    justify-content: center;
+}
+
+.btn {
+    margin: 0.5em 2em;
+    border: none;
+    width: 80%;
+    background-color: #482673;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    font-size: 1em;
+}
+
+#loadRtb {
+    width: 100%;
+    min-height: 35vw;
+/*    margin: 1em 2em;*/
+    background-color: #ECEFF1;
+}
