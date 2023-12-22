@@ -34,7 +34,7 @@ main[b-q5dwqcikdv] {
     flex-direction: column;
     min-height: 100%;
     text-align: center;
-    margin-top: 5%;
+    margin-top: 2%;
     margin-bottom: auto;
     align-items: center;
     align-content: center;
@@ -179,6 +179,7 @@ button[b-k2i4w6uhyp] {
 
     button a[b-k2i4w6uhyp] {
         color: #F6EBF4;
+        text-decoration:none;
     }
 
 .infos[b-k2i4w6uhyp] {

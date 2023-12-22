@@ -20,6 +20,11 @@ button[b-k2i4w6uhyp] {
     font-size: 1em;
 }
 
+    button a[b-k2i4w6uhyp] {
+        color: #F6EBF4;
+        text-decoration:none;
+    }
+
 .infos[b-k2i4w6uhyp] {
     display: flex;
     width: 35%;
