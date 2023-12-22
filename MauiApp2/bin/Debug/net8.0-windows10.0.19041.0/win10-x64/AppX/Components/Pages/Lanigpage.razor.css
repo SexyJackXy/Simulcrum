@@ -2,6 +2,10 @@
     background-color: #F6EBF4;
 }
 
+.wrapper{
+    text-align:center;
+}
+
 button {
     border: none;
     background-color: #482673;
@@ -16,11 +20,16 @@ button {
     font-size: 1em;
 }
 
+    button a {
+        color: #F6EBF4;
+    }
+
 .infos {
     display: flex;
     width: 35%;
     align-content: center;
     margin: auto;
+    justify-content: center;
 }
 
 .mini-infos {

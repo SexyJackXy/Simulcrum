@@ -20,6 +20,11 @@ button {
     font-size: 1em;
 }
 
+    button a {
+        color: #F6EBF4;
+        text-decoration:none;
+    }
+
 .infos {
     display: flex;
     width: 35%;
