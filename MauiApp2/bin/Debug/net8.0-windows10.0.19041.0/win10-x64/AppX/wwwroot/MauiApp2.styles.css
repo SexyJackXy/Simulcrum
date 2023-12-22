@@ -9,7 +9,6 @@
 }
 
 .page[b-q5dwqcikdv] {
-    position: absolute;
     left: 0px;
     right: 0px;
     top: 0px;
@@ -17,18 +16,6 @@
 
 main[b-q5dwqcikdv] {
     flex: 1;
-}
-
-button[b-q5dwqcikdv] {
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
 }
 
 .navbar[b-q5dwqcikdv] {
@@ -39,6 +26,7 @@ button[b-q5dwqcikdv] {
     display: inline-flex;
     flex-direction: column;
     min-width: 100%;
+    background-color: #F6EBF4;
 }
 
 .container[b-q5dwqcikdv] {
@@ -46,6 +34,10 @@ button[b-q5dwqcikdv] {
     flex-direction: column;
     min-height: 100%;
     text-align: center;
+    margin-top: 5%;
+    margin-bottom: auto;
+    align-items: center;
+    align-content: center;
 }
 /* /Components/Layout/NavMenu.razor.rz.scp.css */
 nav[b-mh3lx5gfsj] {
@@ -82,7 +74,7 @@ li[b-mh3lx5gfsj] {
 /* /Components/Pages/CreateBackup.razor.rz.scp.css */
 .Bot[b-s2a0zosc6c] {
     width: 100%;
-    position: absolute;
+
     bottom: 3.25em;
     display: flex;
     flex-wrap: wrap;
@@ -137,11 +129,6 @@ li[b-mh3lx5gfsj] {
     background-color: #482673;
     color: white;
     text-align: center;
-Start Load Save
-Home
-Create
-Load
-Import
     text-decoration: none;
     display: inline-block;
     padding: 1em 2em;
@@ -164,11 +151,16 @@ Import
 input[type=text][b-s2a0zosc6c] {
     outline: none;
     box-sizing: border-box;
-    border: px solid #482673;
+    border: solid #482673;
 }
+/* /Components/Pages/ImportBackup.razor.rz.scp.css */
 /* /Components/Pages/Lanigpage.razor.rz.scp.css */
 :root[b-k2i4w6uhyp] {
     background-color: #F6EBF4;
+}
+
+.wrapper[b-k2i4w6uhyp]{
+    text-align:center;
 }
 
 button[b-k2i4w6uhyp] {
@@ -185,11 +177,16 @@ button[b-k2i4w6uhyp] {
     font-size: 1em;
 }
 
+    button a[b-k2i4w6uhyp] {
+        color: #F6EBF4;
+    }
+
 .infos[b-k2i4w6uhyp] {
     display: flex;
     width: 35%;
     align-content: center;
     margin: auto;
+    justify-content: center;
 }
 
 .mini-infos[b-k2i4w6uhyp] {
@@ -199,4 +196,44 @@ button[b-k2i4w6uhyp] {
     margin: 0.5em 1em;
     width: 20em;
     height: 60%;
+}
+/* /Components/Pages/LoadBackup.razor.rz.scp.css */
+.wrapper[b-mf2foozwgc] {
+    display: flex;
+    justify-content: center;
+}
+
+.Left[b-mf2foozwgc] {
+    width: 25%;
+    justify-content: center;
+}
+
+.Mid[b-mf2foozwgc] {
+    width: 50%;
+    justify-content: center;
+}
+
+.Right[b-mf2foozwgc] {
+    float: right;
+    width: 25%;
+    justify-content: center;
+}
+
+.btn[b-mf2foozwgc] {
+    margin: 0.5em 2em;
+    border: none;
+    width: 80%;
+    background-color: #482673;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    font-size: 1em;
+}
+
+#loadRtb[b-mf2foozwgc] {
+    width: 100%;
+    min-height: 35vw;
+/*    margin: 1em 2em;*/
+    background-color: #ECEFF1;
 }

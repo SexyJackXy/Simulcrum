@@ -517,8 +517,14 @@
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\CreateBackup.razor.css">
       <PackagePath>Components\Pages\CreateBackup.razor.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\ImportBackup.razor.css">
+      <PackagePath>Components\Pages\ImportBackup.razor.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\Lanigpage.razor.css">
       <PackagePath>Components\Pages\Lanigpage.razor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\LoadBackup.razor.css">
+      <PackagePath>Components\Pages\LoadBackup.razor.css</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
