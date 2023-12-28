@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-22T12:53:08.315</Modified>
+      <Modified>2023-12-28T00:11:08.652</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-22T12:53:08.001</Modified>
+      <Modified>2023-12-28T00:11:08.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.runtimeconfig.json">
       <PackagePath>MauiApp2.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-22T12:53:07.701</Modified>
+      <Modified>2023-12-28T00:11:08.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.dll">
       <PackagePath>MauiApp2.dll</PackagePath>
-      <Modified>2023-12-22T12:53:06.335</Modified>
+      <Modified>2023-12-28T00:11:07.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp2.exe</PackagePath>
-      <Modified>2023-12-22T12:53:06.410</Modified>
+      <Modified>2023-12-28T00:11:07.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -307,7 +307,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.deps.json">
       <PackagePath>MauiApp2.deps.json</PackagePath>
-      <Modified>2023-12-22T12:53:07.541</Modified>
+      <Modified>2023-12-28T00:11:08.264</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -671,11 +671,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiApp2.styles.css">
       <PackagePath>wwwroot\MauiApp2.styles.css</PackagePath>
-      <Modified>2023-12-22T12:35:06.988</Modified>
+      <Modified>2023-12-28T00:10:36.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiApp2.bundle.scp.css">
       <PackagePath>wwwroot\MauiApp2.bundle.scp.css</PackagePath>
-      <Modified>2023-12-22T12:35:06.992</Modified>
+      <Modified>2023-12-28T00:10:36.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
@@ -687,11 +687,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\CreateBackup.razor.css">
       <PackagePath>Components\Pages\CreateBackup.razor.css</PackagePath>
-      <Modified>2023-12-20T06:57:52.945</Modified>
+      <Modified>2023-12-28T00:04:26.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\ImportBackup.razor.css">
       <PackagePath>Components\Pages\ImportBackup.razor.css</PackagePath>
-      <Modified>2023-12-22T12:31:26.092</Modified>
+      <Modified>2023-12-28T00:10:46.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\Lanigpage.razor.css">
       <PackagePath>Components\Pages\Lanigpage.razor.css</PackagePath>
