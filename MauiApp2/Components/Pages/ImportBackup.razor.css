@@ -1,0 +1,39 @@
+.label {
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.botbtn {
+    margin: 0 2em;
+    border: none;
+    background-color: #482673;
+    width:40%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1em 2em;
+    font-size: 1em;
+}
+
+.Bot {
+    bottom: 3.25em;
+    display: grid;
+    flex-wrap: wrap;
+}
+
+#importTbx {
+    width: 90%;
+    margin: 0.25em 1em 2em;
+    background-color: #ECEFF1;
+}
+
+#contentRtb {
+    width: 90%;
+    height: 300px;
+    margin: 0.25em 1em 2em;
+    background-color: #ECEFF1;
+}
