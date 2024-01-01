@@ -416,3 +416,6 @@ C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19
 C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\LoadBackup.razor.rz.scp.css
 C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\ImportBackup.razor.rz.scp.css
+C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll

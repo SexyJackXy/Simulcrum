@@ -74,9 +74,7 @@ li[b-mh3lx5gfsj] {
 /* /Components/Pages/CreateBackup.razor.rz.scp.css */
 .Bot[b-s2a0zosc6c] {
     bottom: 3.25em;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
 }
 
 .Mid[b-s2a0zosc6c] {
@@ -137,6 +135,7 @@ li[b-mh3lx5gfsj] {
     border: none;
     background-color: #482673;
     color: white;
+    width:20%;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -177,7 +176,7 @@ input[type=text][b-s2a0zosc6c] {
     margin: 0 2em;
     border: none;
     background-color: #482673;
-    width:20%;
+    width:40%;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -189,6 +188,7 @@ input[type=text][b-s2a0zosc6c] {
 .Bot[b-biahxzmvgt] {
     bottom: 3.25em;
     display: grid;
+    flex-wrap: wrap;
 }
 
 #importTbx[b-biahxzmvgt] {

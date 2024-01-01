@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-28T00:11:08.652</Modified>
+      <Modified>2024-01-01T21:51:47.576</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-28T00:11:08.411</Modified>
+      <Modified>2024-01-01T21:51:47.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.runtimeconfig.json">
       <PackagePath>MauiApp2.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-28T00:11:08.331</Modified>
+      <Modified>2024-01-01T21:39:23.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.dll">
       <PackagePath>MauiApp2.dll</PackagePath>
-      <Modified>2023-12-28T00:11:07.907</Modified>
+      <Modified>2024-01-01T21:51:47.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp2.exe</PackagePath>
-      <Modified>2023-12-28T00:11:07.913</Modified>
+      <Modified>2024-01-01T21:51:47.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -307,7 +307,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.deps.json">
       <PackagePath>MauiApp2.deps.json</PackagePath>
-      <Modified>2023-12-28T00:11:08.264</Modified>
+      <Modified>2024-01-01T21:39:23.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -316,6 +316,14 @@
     <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\communitytoolkit.maui\7.0.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+      <Modified>2023-12-15T13:17:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\communitytoolkit.maui.core\7.0.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+      <Modified>2023-12-15T13:17:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\microsoft.aspnetcore.authorization\8.0.0\lib\net8.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
@@ -513,6 +521,10 @@
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
       <Modified>2023-10-31T14:59:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\system.speech\8.0.0-rc.2.23479.6\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-09-29T19:04:04.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
       <Modified>2023-11-07T20:44:30.000</Modified>
@@ -671,11 +683,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiApp2.styles.css">
       <PackagePath>wwwroot\MauiApp2.styles.css</PackagePath>
-      <Modified>2023-12-28T00:10:36.539</Modified>
+      <Modified>2023-12-28T00:18:54.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiApp2.bundle.scp.css">
       <PackagePath>wwwroot\MauiApp2.bundle.scp.css</PackagePath>
-      <Modified>2023-12-28T00:10:36.542</Modified>
+      <Modified>2023-12-28T00:18:54.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
@@ -687,11 +699,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\CreateBackup.razor.css">
       <PackagePath>Components\Pages\CreateBackup.razor.css</PackagePath>
-      <Modified>2023-12-28T00:04:26.617</Modified>
+      <Modified>2023-12-28T00:18:41.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\ImportBackup.razor.css">
       <PackagePath>Components\Pages\ImportBackup.razor.css</PackagePath>
-      <Modified>2023-12-28T00:10:46.781</Modified>
+      <Modified>2023-12-28T00:19:20.961</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tim\Documents\GitHub\Simulcrum\MauiApp2\Components\Pages\Lanigpage.razor.css">
       <PackagePath>Components\Pages\Lanigpage.razor.css</PackagePath>
