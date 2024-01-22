@@ -7,19 +7,41 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Text.RegularExpressions;
 using CommunityToolkit.Maui.Storage;
-using Windows.Networking.Sockets;
 
 namespace simulcrum
 {
-	public static class CreateBackup
-	{
-		public static string destPath = "";
+    public static class CreateBackup
+    {
+        public static string destPath = "";
+        public static List<string> sourcePaths;
+        public static string sourcePathsText = String.Join("", sourcePaths);
 
-		public async static void destbtn_Click()
-		{
-			var folderPicker = await FolderPicker.PickAsync(default);
-			var folderPath = folderPicker.Folder.Path;
-			destPath = folderPath;
-		}
-	}
+        private async static Task<string> SelectFolderAsync()
+        {
+            var folderPicker = await FolderPicker.PickAsync(default);
+            if (folderPicker != null)
+            {
+                return folderPicker.Folder.Path;
+            }
+            else
+            {
+                return string.Empty; // Oder eine andere Standardeinstellung, wenn kein Ordner ausgewählt wurde
+            }
+        }
+
+        public async static void destbtn_Click()
+        {
+            destPath = await SelectFolderAsync();
+        }
+
+        public async static void sourcebtn_Click()
+        {
+            var selectedFolder = await SelectFolderAsync();
+
+            if (String.IsNullOrEmpty(selectedFolder))
+            {
+                sourcePaths.Add(selectedFolder);
+            }
+        }
+    }
 }
